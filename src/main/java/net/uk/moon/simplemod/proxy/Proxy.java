@@ -1,7 +1,7 @@
 package net.uk.moon.simplemod.proxy;
 
 /**
- * Created by MoonJ on 17/12/2015.
+ * Defines methods that proxy classes should implement
  */
 public interface Proxy {
 }

@@ -1,7 +1,7 @@
 package net.uk.moon.simplemod.proxy;
 
 /**
- * Created by MoonJ on 17/12/2015.
+ * Provides methods for use in the client.
  */
 public class ClientProxy extends CommonProxy {
 }

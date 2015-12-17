@@ -1,7 +1,7 @@
 package net.uk.moon.simplemod.proxy;
 
 /**
- * Created by MoonJ on 17/12/2015.
+ * Provides methods common to both server and client
  */
-public class CommonProxy implements Proxy {
+public abstract class CommonProxy implements Proxy {
 }

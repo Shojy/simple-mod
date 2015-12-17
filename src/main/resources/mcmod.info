@@ -1,0 +1,16 @@
+[
+{
+  "modid": "simplemod",
+  "name": "Simple Mod",
+  "description": "Just a simple mod used for learning.",
+  "version": "0.1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrShojy"],
+  "credits": "Forge and FML teams or forge. Pahimar & MrCrayfish for modding tutorials",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

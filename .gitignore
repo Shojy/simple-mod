@@ -1,0 +1,20 @@
+# everything
+/*
+
+# folders
+!/gradle/wrapper
+!/src
+!/api
+!/test
+
+# files
+!/.gitignore
+!/.gitmodules
+!/LICENSE.txt
+!/README.md
+!/gradle.properties
+!/build.gradle
+!/build.xml
+!/gradlew
+!/gradlew.bat
+.DS_Store
